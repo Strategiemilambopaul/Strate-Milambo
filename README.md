@@ -67,7 +67,7 @@ I’m open to collaborating on:
 ---
 
 ## ⚡ Fun Fact  
-When I'm not coding, I love **solving complex math problems**, **exploring AI innovations**, and **contributing to open-source projects**.  
+When I'm not coding, I love **solving math problems**, **exploring AI innovations**, and **listening music sounds**.  
 
 ---
 
