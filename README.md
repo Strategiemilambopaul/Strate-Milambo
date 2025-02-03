@@ -20,7 +20,8 @@ I am a **Data Scientist**, **Backend Web Developer**, and **Database Administrat
 ## 🔬 What I’m Working On  
 - 🏥 **Lung and Colon Cancer Detection** (Using **Swin Transformer** and **Siamese Networks** on histopathological images)  
 - 🌍 **Air Quality and Pollution Assessment** (Deploying a **Machine Learning** model on **Streamlit**)  
-- 🖥️ **Backend Web Development Projects** (API design, database management, and system optimization)  
+- 🖥️ **Backend Web Development Projects** (API design, database management, and system optimization)
+- 🤖 **Agent system** 
 
 ---
 
