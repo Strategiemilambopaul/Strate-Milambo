@@ -21,7 +21,7 @@ I am a **Data Scientist**, **Backend Web Developer**, and **Database Administrat
 - 🏥 **Medicine and Health** (Using **new AI architectures** to maximize accuracy and system adaptability with the goal of saving the majority of human lives. )  
 - 🌍 **Air Quality and Pollution Assessment** (Deploying a **Machine Learning** model on **Streamlit**)  
 - 🖥️ **Backend Web Development Projects** (API design, database management, and system optimization)
-- 🤖 **Agent system** 
+- 🤖 **Agent system** (building agents for our community) 
 
 ---
 
