@@ -1,6 +1,6 @@
 <!-- Stratégie Milambo Paul's GitHub README -->
 
-<h1 align="center">👋 Hi, I’m Strat Mil's  (@Strate-Milambo)</h1>
+<h1 align="center">👋 Hi, I’m Strategie Milambo  (@Strate-Milambo)</h1>
 
 <p align="center">
   <strong>🚀 Data Scientist | Backend Web Developer | Database Administrator</strong>
